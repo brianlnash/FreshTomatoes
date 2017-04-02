@@ -2,7 +2,7 @@ To generate the HTML page for this site, take the following steps:
 
     Clone this repository using git.
 
-    In terminal, run "python movie_list.py"
+    In Python terminal, run "entertainment_center.py"
 
 The script will generate an HTML page that will open in your browser.
 
